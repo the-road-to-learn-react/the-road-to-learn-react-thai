@@ -15,7 +15,7 @@ Repository ทางการสำหรับ [เส้นทางสู่�
 - 🇷🇺 [รัสเซีย](https://leanpub.com/the-road-to-learn-react-russian)
 - 🇪🇸 [เสปน](https://leanpub.com/the-road-to-learn-react-spanish)
 - 🇮🇹 [อิตาลี](https://leanpub.com/the-road-to-learn-react-italian)
-- 🇹🇭 [ไทย](https://github.com/the-road-to-learn-react/the-road-to-learn-react-thai)
+- 🇹🇭 [ไทย](https://leanpub.com/the-road-to-learn-react-thai)
 
 ## การปรับปรุง, ช่วยเหลือ และการสนับสนุน
 
