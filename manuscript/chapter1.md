@@ -1,6 +1,6 @@
-# Introduction to React
+# เริ่มรู้จัก React
 
-This chapter is an introduction to React, a JavaScript library for rendering interfaces in single-page and mobile applications, where I explain why developers should consider adding the React library to their toolbelts. We will dive into the React ecosystem, creating your first React application from scratch with no configuration. Along the way, we will introduce **JSX**, the syntax for React, and **ReactDOM**, so you have an understanding of React's practical uses in modern web applications.
+ในบทนี้จะเป็นการแนะนำให้รู้จัก React, มันคือ JavaScript library สำหรับสร้าง interface ใน single-page แอพ และแอพบนมือถือ, โดยจะบอกว่าทำไมนักพัฒนาควรจะเลือกใช้ React เป็นเครื่องมือ เราจะเจาะลึกไปถึง React ecosystem, สร้าง React แอพจากที่ไม่มีอะไรเลยโดยไม่ต้องปรับแต่งอะไร และในระหว่างทางเราก็จะแนะนำให้รู้จัก *JSX* (syntax ของ React) และ *ReactDOM* เพื่อคุณจะได้เข้าใจการใช้งาน React สำหรับเว็บแอพสมัยใหม่
 
 ## Hi, my name is React.
 
